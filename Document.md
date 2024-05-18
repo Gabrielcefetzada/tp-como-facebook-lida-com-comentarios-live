@@ -101,6 +101,6 @@ Rastreamento Distribuído: Ferramenta para depuração de sistemas distribuídos
 A arquitetura da Twitch é um exemplo de como gerenciar uma plataforma em larga escala, com diversos componentes interconectados e desafios únicos de escalabilidade, complexidade e crescimento. Essas informações são cruciais para entender as decisões arquiteturais necessárias para suportar uma plataforma de streaming de vídeo ao vivo de grande porte.
 
 
+# Referências bibliográficas
 
-
-
+Twitch. Twitch Engineering: An Introduction and Overview. Blog da Twitch, 18 dez. 2015. Disponível em: https://blog.twitch.tv/twitch-engineering-an-introduction-and-overview-24b4ed4a1842. Acesso em: 18 maio 2024.
