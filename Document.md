@@ -5,7 +5,8 @@
 ## Introdução
 
 A Twitch é uma das maiores plataformas de transmissão de vídeo ao vivo do mundo, com uma infraestrutura complexa que suporta uma variedade de serviços essenciais. A plataforma enfrenta desafios significativos devido à sua escala e ao rápido crescimento, exigindo decisões arquiteturais cuidadosas.
-Escalabilidade
+
+## Escalabilidade
 
  A Twitch lida com mais de 30.000 streamers simultâneos e picos de mais de 2 milhões de streams de vídeo ao mesmo tempo.
 
