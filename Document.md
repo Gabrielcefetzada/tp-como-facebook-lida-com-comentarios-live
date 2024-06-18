@@ -60,7 +60,7 @@ No final de 2018, quando todo o tráfego foi desviado do monólito, finalmente f
 
 Hoje em dia, diferentes equipes de produto podem operar de forma independente, gerenciando sua própria infraestrutura e ajustando seus serviços conforme necessário. Equipes fundamentais fortes fornecem frameworks e ferramentas específicas para ajudar a padronizar a pilha de engenharia e as práticas operacionais.
 
-## Detalhamento e estratégias para Live Vide Stream em Escala Global
+## Detalhamento e estratégias para Live Video Stream em Escala Global
 
 Para fornecer serviços de streaming de alta qualidade e baixa latência para criadores e espectadores, o Twitch mantém quase uma centena de pontos de presença (PoPs) em diferentes regiões geográficas ao redor do mundo (saiba mais sobre como nosso Serviço de Vídeo Interativo funciona em outro blog)! Cada PoP está conectado à nossa rede backbone privada, e as transmissões de vídeo ao vivo recebidas nos PoPs são então enviadas para os data centers de origem para processamento e distribuição.
 
